@@ -8,6 +8,8 @@ article,
   display: flex;
   flex-direction: flex-start;
   font-family:'Dosis';
+  background-color: #E6E6E6;
+  margin: auto;
 }
 header{
 	background-color: #000F40;
@@ -44,6 +46,9 @@ h2{
 }
  div.social-icons > ul {
  	display:inline-block;
+ 	display: flex;
+ 	padding: 20px; 
+ 	justify-content: space-evenly;
  }
  div.social-icons > ul >  li > a > i{
 	font-size: 25px;
