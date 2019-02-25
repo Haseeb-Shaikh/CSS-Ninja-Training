@@ -8,6 +8,8 @@ article,
   display: flex;
   flex-direction: flex-start;
   font-family:'Dosis';
+  background-color: #E6E6E6;
+  margin: auto;
 }
 header{
 	background-color: #000F40;
