@@ -46,6 +46,9 @@ h2{
 }
  div.social-icons > ul {
  	display:inline-block;
+ 	display: flex;
+ 	padding: 20px; 
+ 	justify-content: space-evenly;
  }
  div.social-icons > ul >  li > a > i{
 	font-size: 25px;
@@ -71,6 +74,13 @@ h2{
 	font-size: 30px;
 	margin-top: -10px;
 	background-color: #3FA6FF;
+	color:white;
+	border-radius: 50px;
+}
+div.social-icons > ul >  li > a > i.gh:hover{
+	font-size: 30px;
+	margin-top: -10px;
+	background-color: black;
 	color:white;
 	border-radius: 50px;
 }
