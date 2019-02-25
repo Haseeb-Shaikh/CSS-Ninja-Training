@@ -77,3 +77,10 @@ h2{
 	color:white;
 	border-radius: 50px;
 }
+div.social-icons > ul >  li > a > i.gh:hover{
+	font-size: 30px;
+	margin-top: -10px;
+	background-color: black;
+	color:white;
+	border-radius: 50px;
+}
